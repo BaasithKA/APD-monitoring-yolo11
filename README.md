@@ -62,16 +62,22 @@ backend/
 ⚙️ Cara Menjalankan Sistem
 1. Instalasi
 Pastikan Anda telah menginstal Python versi 3.9 atau lebih baru.
-
+```
 Bash
+```
 # Install library yang diperlukan
+```
 pip install -r requirements.txt
-
+```
 # Inisialisasi database awal
+```
 python init_db.py
+```
 2. Menjalankan Aplikasi
 Bash
 # Jalankan server Flask
+```
 python app.py
+```
 Akses aplikasi melalui browser di: http://127.0.0.1:5000
 ```
