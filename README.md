@@ -58,6 +58,7 @@ backend/
 |-- deteksi.db          # Database SQLite
 |-- init_db.py          # Skrip inisialisasi tabel database
 `-- requirements.txt    # Daftar dependensi library
+```
 ⚙️ Cara Menjalankan Sistem
 1. Instalasi
 Pastikan Anda telah menginstal Python versi 3.9 atau lebih baru.
@@ -73,6 +74,4 @@ Bash
 # Jalankan server Flask
 python app.py
 Akses aplikasi melalui browser di: http://127.0.0.1:5000
-
-Penulis: Baasith Khoiruddin Akmal
 ```
